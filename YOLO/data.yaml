@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Blood
+train: train_new/
+val: valid_new/
+test: test_new/
+
+names:
+  0: Blood
